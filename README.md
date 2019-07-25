@@ -1,2 +1,2 @@
 # htmlify
-Library to make Python CGI less painful
+An ultra-basic, human-friendly templating system for doing CGI with Python for less 😕 and more 🎉
