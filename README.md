@@ -1,4 +1,8 @@
 # htmlify
+
+## This repository is full of bad decisions. I'm leaving it here as a reminder of what not to do.
+
+
 An ultra-basic, human-friendly templating system for doing CGI with Python for less 😕 and more 🎉
 
 htmlify is powerful enough to drive small web projects, while lightweight enough that you don't feel like you're learning a whole new language. Here's how it works:
